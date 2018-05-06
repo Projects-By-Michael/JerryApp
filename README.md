@@ -1,5 +1,5 @@
 # JerryApp
-Project Jerry: For Mobile__
-Lisenced with __
-Apache License 2.0__
-©2018; Michael O through Projects-By-Michael__
+Project Jerry: For Mobile<br />
+Lisenced with <br />
+Apache License 2.0<br />
+©2018; Michael O through Projects-By-Michael<br />
